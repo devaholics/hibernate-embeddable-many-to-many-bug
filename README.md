@@ -12,3 +12,5 @@ The javadoc of the `@ManyToMany` annotation states
 relationship to a collection of entities. (...)
 
 So this is expected to work.
+
+This issue can be found in [HHH-15359](https://hibernate.atlassian.net/browse/HHH-15359).
